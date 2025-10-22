@@ -8,8 +8,8 @@ Este repositório contém a 2ª entrega do Projeto Integrador da disciplina de D
 - Bianca (GitHub: @[username3])
 - Gustavo Rosa (GitHub: @[Guhti-Dev])
 - Jefferson (GitHub: @[username])
-- Julio Augusto Carvalho Martos (GitHub: @[juliomartos])
-- Leonardo Guardiola (GitHub: @[LeonardoGuardiola94])
+- [Julio Augusto Carvalho Martos] (@juliomartos)
+- Leonardo Guardiola (GitHub: @LeonardoGuardiola94)
 
 ## Objetivo
 Desenvolver protótipos de interface que reflitam os diagramas de caso de uso da fase 1, representando os cadastros de diferentes tipos de pessoas em uma universidade, além de incluir os diagramas UML da fase inicial.
