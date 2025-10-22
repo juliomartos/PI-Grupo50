@@ -4,12 +4,12 @@
 Este repositório contém a 2ª entrega do Projeto Integrador da disciplina de Desenvolvimento de Sistemas Orientado a Objetos. O projeto consiste na prototipação de interfaces para um sistema de gestão universitária, baseado nos diagramas UML desenvolvidos na 1ª entrega, incluindo cadastros de Pessoa Física, Pessoa Jurídica, Professores, Fornecedores e Alunos.
 
 ## Integrantes do Grupo
-- [Alan] (GitHub: @[username])
-- [Bianca] (GitHub: @[username3])
-- [Gustavo Rosa] (GitHub: @[Guhti-Dev])
-- [Jefferson] (GitHub: @[username])
-- [Julio Augusto Carvalho Martos] (GitHub: @[juliomartos])
-- [Leonardo Guardiola] (GitHub: @[LeonardoGuardiola94])
+- Alan (GitHub: @[username])
+- Bianca (GitHub: @[username3])
+- Gustavo Rosa (GitHub: @[Guhti-Dev])
+- Jefferson (GitHub: @[username])
+- Julio Augusto Carvalho Martos (GitHub: @[juliomartos])
+- Leonardo Guardiola (GitHub: @[LeonardoGuardiola94])
 
 ## Objetivo
 Desenvolver protótipos de interface que reflitam os diagramas de caso de uso da fase 1, representando os cadastros de diferentes tipos de pessoas em uma universidade, além de incluir os diagramas UML da fase inicial.
