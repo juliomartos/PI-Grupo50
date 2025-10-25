@@ -39,3 +39,8 @@ System: .png): Interface para cadastro de alunos.
 1. Clone o repositório: `git clone git@github.com:juliomartos/PI-Grupo50.git`
 2. Abra os arquivos de protótipos e diagramas em um visualizador de imagens ou PDF.
 3. Consulte os documentos na pasta `/docs` para mais detalhes.
+
+---
+### Prototipagem
+
+O protótipo do projeto foi desenvolvido no Figma onde podemos visualizar como será construida a interface visual do projeto [PI SENAC EAD – FIGMA](https://www.figma.com/design/kCJEbkZnf8P25IOUvkya12/PI---SENAC-EAD?node-id=1-5&t=UzSkdwHFLTXSc8Tc-1).
