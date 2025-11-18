@@ -23,7 +23,6 @@ Desenvolver protótipos de interface que reflitam os diagramas de caso de uso da
 - [Cadastro de Pessoa Jurídica](prototipos/prototipo_pessoa_juridica.png): Interface para cadastro de empresas.
 - [Cadastro de Professores](prototipos/prototipo_professores.png): Interface para cadastro de docentes.
 - [Cadastro de Fornecedores](prototipos/prototipo_fornecedores.png): Interface para cadastro de fornecedores.
-- [Cadastro de Alunos](prototipos/prototipo_alunos.png⁠
 
 System: .png): Interface para cadastro de alunos.
 - [Diagrama de Casos de Uso](diagramas/casos_de_uso.png): Representa as interações do sistema com os diferentes tipos de usuários.
