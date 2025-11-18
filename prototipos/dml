@@ -1,0 +1,130 @@
+ 1) Pessoa Física → Aluno (Lucas Andrade)
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (1, 'Lucas Andrade', 'Rua Palmeiras, 210', '11974563322', 'lucas.andrade@example.com');
+
+INSERT INTO PessoaFisica (id, cpf, dataNascimento)
+VALUES (1, '987.321.654-00', '1998-03-22');
+
+INSERT INTO Aluno (id, matricula, curso)
+VALUES (1, 'ALU2025-001', 'Engenharia de Software');
+
+
+ 2) Pessoa Física → Professora (Fernanda Ribeiro)
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (2, 'Fernanda Ribeiro', 'Rua Cedro, 75', '11933445566', 'fernanda.ribeiro@uni.com');
+
+INSERT INTO PessoaFisica (id, cpf, dataNascimento)
+VALUES (2, '112.244.668-80', '1987-11-05');
+
+INSERT INTO Professor (id, matricula, curso)
+VALUES (2, 'PROF2025-010', 'Matemática');
+
+
+ 3) Pessoa Jurídica → Fornecedor (Norte Digital)
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (3, 'Norte Digital Serviços', 'Av. Brasil, 850', '1134567891', 'contato@nortedigital.com');
+
+INSERT INTO PessoaJuridica (id, cnpj, razaoSocial)
+VALUES (3, '44.556.677/8899-01', 'Norte Digital LTDA');
+
+INSERT INTO Fornecedor (id, codigoFornecedor, produtoFornecido)
+VALUES (3, 'F001', 'Equipamentos de Informática');
+
+
+ ALUNOS EXTRAS
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (4, 'Bruno Tavares', 'Rua Harmonia, 55', '11988771234', 'bruno.tavares@example.com');
+
+INSERT INTO PessoaFisica (id, cpf, dataNascimento)
+VALUES (4, '321.654.987-22', '2001-10-09');
+
+INSERT INTO Aluno (id, matricula, curso)
+VALUES (4, 'ALU2025-045', 'Sistemas de Informação');
+
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (5, 'Camila Duarte', 'Av. Flores, 980', '11977665544', 'camila.duarte@example.com');
+
+INSERT INTO PessoaFisica (id, cpf, dataNascimento)
+VALUES (5, '123.789.456-99', '1999-01-25');
+
+INSERT INTO Aluno (id, matricula, curso)
+VALUES (5, 'ALU2025-078', 'Engenharia da Computação');
+
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (6, 'Igor Martins', 'Rua Esperança, 300', '11966554433', 'igor.martins@example.com');
+
+INSERT INTO PessoaFisica (id, cpf, dataNascimento)
+VALUES (6, '456.987.123-55', '2002-05-12');
+
+INSERT INTO Aluno (id, matricula, curso)
+VALUES (6, 'ALU2025-099', 'Ciência da Computação');
+
+
+ PROFESSORES EXTRAS
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (7, 'Juliana Morais', 'Rua Projetada, 12', '11999880011', 'juliana.morais@uni.com');
+
+INSERT INTO PessoaFisica (id, cpf, dataNascimento)
+VALUES (7, '554.332.110-44', '1980-09-14');
+
+INSERT INTO Professor (id, matricula, curso)
+VALUES (7, 'PROF2025-022', 'Informática');
+
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (8, 'Rafael Cunha', 'Av. Aurora, 700', '11988440055', 'rafael.cunha@uni.com');
+
+INSERT INTO PessoaFisica (id, cpf, dataNascimento)
+VALUES (8, '667.889.004-11', '1979-06-28');
+
+INSERT INTO Professor (id, matricula, curso)
+VALUES (8, 'PROF2025-031', 'Engenharia');
+
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (9, 'Simone Barros', 'Rua Vitória, 150', '11933221100', 'simone.barros@uni.com');
+
+INSERT INTO PessoaFisica (id, cpf, dataNascimento)
+VALUES (9, '221.443.556-00', '1988-11-03');
+
+INSERT INTO Professor (id, matricula, curso)
+VALUES (9, 'PROF2025-047', 'Matemática Aplicada');
+
+
+ FORNECEDORES EXTRAS
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (10, 'Alpha Tech Serviços', 'Rua do Comércio, 88', '1133445566', 'contato@alphatech.com');
+
+INSERT INTO PessoaJuridica (id, cnpj, razaoSocial)
+VALUES (10, '11.222.333/0001-55', 'Alpha Tech Serviços LTDA');
+
+INSERT INTO Fornecedor (id, codigoFornecedor, produtoFornecido)
+VALUES (10, 'F002', 'Peças de Hardware');
+
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (11, 'GlobalPrint Suprimentos', 'Av. Paulista, 1300', '1133221100', 'suporte@globalprint.com');
+
+INSERT INTO PessoaJuridica (id, cnpj, razaoSocial)
+VALUES (11, '22.333.444/0001-88', 'GlobalPrint Suprimentos LTDA');
+
+INSERT INTO Fornecedor (id, codigoFornecedor, produtoFornecido)
+VALUES (11, 'F003', 'Cartuchos e Toners');
+
+
+INSERT INTO Pessoa (id, nome, endereco, telefone, email)
+VALUES (12, 'Bright Solutions', 'Rua Solaris, 200', '1144556688', 'bright@solutions.com');
+
+INSERT INTO PessoaJuridica (id, cnpj, razaoSocial)
+VALUES (12, '33.444.555/0001-99', 'Bright Solutions LTDA');
+
+INSERT INTO Fornecedor (id, codigoFornecedor, produtoFornecido)
+VALUES (12, 'F004', 'Serviços de Manutenção');
