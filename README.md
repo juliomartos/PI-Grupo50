@@ -5,9 +5,9 @@ Este repositório contém a 2ª entrega do Projeto Integrador da disciplina de D
 
 ## Integrantes do Grupo
 - Alan (GitHub: @AlanF0)
-- Bianca (GitHub: @username)
+- Bianca (GitHub: @biancasouz)
 - Gustavo Rosa (GitHub: @Guhti-Dev)
-- Jefferson (GitHub: @username)
+- Jefferson (GitHub: @jeffersoncamillabruna-oss)
 - Julio Augusto Carvalho Martos (GitHub: @juliomartos)
 - Leonardo Guardiola (GitHub: @LeonardoGuardiola94)
 
@@ -17,7 +17,6 @@ Desenvolver protótipos de interface que reflitam os diagramas de caso de uso da
 ## Estrutura do Repositório
 - `/prototipos`: Protótipos de interface desenvolvidos na fase 2.
 - `/diagramas`: Diagramas UML da fase 1 (casos de uso e classes).
-- `/docs`: Documentos adicionais, como descrições dos cenários.
 
 ## Protótipos (Fase 2)
 - [Cadastro de Pessoa Física](prototipos/prototipo_pessoa_fisica.png): Interface para cadastro de pessoas físicas.
@@ -32,13 +31,12 @@ System: .png): Interface para cadastro de alunos.
 
 ## Ferramentas Utilizadas
 - **Figma**: Criação dos protótipos de interface.
-- **Draw.io** ou similar: Criação dos diagramas UML.
+- **Draw.io**: Criação dos diagramas UML.
 - **GitHub**: Versionamento e documentação do projeto.
 
 ## Como Visualizar
 1. Clone o repositório: `git clone git@github.com:juliomartos/PI-Grupo50.git`
 2. Abra os arquivos de protótipos e diagramas em um visualizador de imagens ou PDF.
-3. Consulte os documentos na pasta `/docs` para mais detalhes.
 
 ---
 ### Prototipagem
